@@ -12,7 +12,7 @@ print("Hello, world!")
 ##### Header 5
 ###### Header 6
 
-First change: Added 6 headers
-Second: Added image of TTPD under Header 1
-Third: Added python Hello world script under h2
-Fourth: 
+First change: Added 6 headers  
+Second: Added image of TTPD under Header 1  
+Third: Added python Hello world script under h2  
+Fourth: Added task list under header 3
